@@ -23,4 +23,4 @@ else
 {
     max = third_number;
 }
-Console.WriteLine(max);
+Console.WriteLine($"max= {max}");
